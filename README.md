@@ -28,7 +28,7 @@ This project implements an LSTM-based deep learning model to forecast NIFTY 50 i
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/nifty50-lstm-forecasting.git](https://github.com/Devesh-Attri/Forecasting-NIFTY-50-Using-Multi-Domain-Indicators-with-LSTM.git)
+   git clone https://github.com/Devesh-Attri/Forecasting-NIFTY-50-Using-Multi-Domain-Indicators-with-LSTM.git
    cd nifty50-lstm-forecasting
    ```
 
